@@ -1,7 +1,7 @@
 
 # Cow's Burger
 
-- Projeto de conclusão a cadeira "Padrões de Projeto" utilizando o padrão "Decorator" para criar uma hanburgueria.
+- Projeto de conclusão a cadeira "Padrões de Projeto" utilizando o padrão "Decorator" para criar uma hamburgueria.
 
 
 ## Autores
